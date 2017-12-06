@@ -9,4 +9,17 @@ In order to see the real issue, we need to understand what the math is telling u
   - **Components** Downloading the rest of the components typically counts for 60% of the total time.
   - **Scripts** The remainder of time is spent parsing script tags or css files
  
- 
+All this starts with the HTTP (a.k.a HyperText Transfer Protocol), the rules that govern how browsers and servers communicate with eachother. The main two components of HTTP are its *requests* and *responses*. 
+
+The types of requests and responses are listed here: 
+### Requests 
+  • **POST**       `/* If you are new to this, `
+  • **GET**           `you should mainly be concerned with `
+  • **Head**          `POST, GET, and OPTIONS `
+  • **PUT**           `for now `
+  • **DELETE**      `*/`
+  • **OPTIONS**
+  • **TRACE
+  
+ The request we will be working on is the **GET** request, since it is the most common. 
+## What's a GET request?
