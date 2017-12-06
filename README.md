@@ -13,13 +13,27 @@ All this starts with the HTTP (a.k.a HyperText Transfer Protocol), the rules tha
 
 The types of requests and responses are listed here: 
 ### Requests 
-  • **POST**       `/* If you are new to this, `
-  • **GET**           `you should mainly be concerned with `
-  • **Head**          `POST, GET, and OPTIONS `
-  • **PUT**           `for now `
-  • **DELETE**      `*/`
-  • **OPTIONS**
-  • **TRACE
+  - **POST**       `/* If you are new to this, `
+  - **GET**           `you should mainly be concerned with `
+  - **Head**          `POST, GET, and OPTIONS `
+  - **PUT**           `for now `
+  - **DELETE**      `*/`
+  - **OPTIONS**
+  - **TRACE
   
- The request we will be working on is the **GET** request, since it is the most common. 
-## What's a GET request?
+ The request we will be working on is the **GET** request, since it is the most common.
+ 
+### What's a GET request?
+In layman's terms, a get request is what you send to a server to ask that server for something, whether it's information, data, etc. A get request typically contains a URL and some headers, however the main focus of this is not the get request itself but the response it brings in return...
+
+## Compression
+
+## Sending Conditional Requests
+
+## Expires
+
+## Keeping Alive
+
+
+# Lets Get Moving!
+You have reached the end of this introduction! Now its time to really dig deep into the other chapters. 
