@@ -11,9 +11,9 @@ All this starts with **HTTP** (HyperText Transfer Protocol), a.k.a *the rules th
 
 The types of requests and responses are listed here: 
 ### Requests 
-  - **POST** 
+  - **POST**  
   
-  - **GET** 
+  - **GET**  
   
   - **Head**  
   
