@@ -13,13 +13,17 @@ All this starts with the HTTP (a.k.a HyperText Transfer Protocol), the rules tha
 
 The types of requests and responses are listed here: 
 ### Requests 
-  - **POST**       `/* If you are new to this, `
-  - **GET**           `you should mainly be concerned with `
-  - **Head**          `POST, GET, and OPTIONS `
-  - **PUT**           `for now `
-  - **DELETE**      `*/`
+  - **POST** 
+  - **GET**          
+  - **Head**        
+  - **PUT**         
+  - **DELETE**   
   - **OPTIONS**
   - **TRACE
+ 
+ `/* If you are new to this, `
+  `you should mainly be concerned with `
+  `POST, GET, and OPTIONS for now */`
   
  The request we will be working on is the **GET** request, since it is the most common.
  
